@@ -7,8 +7,3 @@ mostly hardware, ios and design. lots of esp32s along the way.
 → x: [@HeyEthanZ](https://x.com/HeyEthanZ)
 
 → rainbit: [@RainbitHQ](https://x.com/RainbitHQ) · [rainbit.io](https://rainbit.io)
-
-
-
-
-
