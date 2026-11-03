@@ -6,8 +6,3 @@ before that i tinkered with esp32s, lasers, gas stoves and too many chatgpt clon
 
 → x: [@HeyEthanZ](https://x.com/HeyEthanZ)
 → rainbit: [@RainbitHQ](https://x.com/RainbitHQ) · [rainbit.io](https://rainbit.io)
-
-
-
-
-
