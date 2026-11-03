@@ -1,16 +1,13 @@
-## Hi there 👋
+hi, i'm ethan 👋
 
-<!--
-**JasonZhangC/JasonZhangC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm building rainbit: a small device that tells you what's actually around you. the air, the light, the noise.
 
-Here are some ideas to get you started:
+before that i tinkered with esp32s, lasers, gas stoves and too many chatgpt clones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+→ x: [@HeyEthanZ](https://x.com/HeyEthanZ)
+→ rainbit: [@RainbitHQ](https://x.com/RainbitHQ) · [rainbit.io](https://rainbit.io)
+
+
+
+
+
